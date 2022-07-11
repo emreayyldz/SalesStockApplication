@@ -1,0 +1,17 @@
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaSayfa.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SatışSayfası.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Stok_Sayfası.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Marka_Ekleme.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kategori_Ekleme.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ürüneklegüncelle.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SatışGeçmişi.resources
+C:\Users\emrea\OneDrive\Masaüstü\market satış stok\Market_Satış_Stok\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kategorimarkasilme.resources
